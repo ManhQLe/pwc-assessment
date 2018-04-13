@@ -1,0 +1,60 @@
+﻿Music reseach sources :)
+------------------------
+
+
+National Guitar Academy: https://nationalguitaracademy.com/guitar-notes/
+
+Wikipedia - https://en.wikipedia.org/wiki/Guitar_tunings#Standard
+
+Talkbass - https://images.talkbass.com/attachments/fretfreq-jpg.2456495/
+
+Oneline Pianist - https://www.onlinepianist.com/virtual-piano
+
+StackExchange - https://music.stackexchange.com/questions/32715/what-do-the-terms-e2-a2-d3-g3-b3-e4-actually-mean
+
+Wikimedia - Fret notes and frequency - https://upload.wikimedia.org/wikipedia/commons/b/b7/Guitar_fret_notes_and_frequency_hz.png
+
+
+Cheatsheet
+----------
+
+
+/*
+	Musical alphabet convention
+	A, A#, B, C, C#, D, D#, E, F, F#, G, G#.
+	A, Bb, B, C, Db, D, Eb, E, F, Gb, G, Ab.
+*/
+
+/*
+	Guitar standard tuning Frequency 
+	E4 - 329.6
+	B3 - 246.9
+	G3 - 196.0
+	D3 - 146.8
+	A2 - 110.0
+	E2 - 82.41
+
+
+	Freqn = Freq1 * 2^(n-1) - Octave-based Frequency calculation
+*/
+
+
+
+
+/*  First 3 frets
+
+	E | F    , F#/Gb ,
+	B | C    , C#/Db ,
+	G | G#/Ab, A     ,
+	D | D#/Eb, E     ,
+	A | A#/Bb, B     ,
+	E | F    , F#/Gb ,
+	*/
+
+/*
+	 	Bass standard tuning frequency Open note
+	G	98
+	D	73
+	A	55
+	E	41
+*/
